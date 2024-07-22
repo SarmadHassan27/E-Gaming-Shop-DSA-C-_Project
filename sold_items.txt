@@ -1,0 +1,11 @@
+
+
+Customer : 
+Customer : 
+Game: gta, Price: $50
+Customer : 
+Game: asd, Price: $45
+Customer : 
+Game: gta, Price: $67
+Game: valorant, Price: $30
+Game: asd, Price: $34
